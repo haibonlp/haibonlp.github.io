@@ -27,26 +27,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Applied Scientist and Science Manager at AWS AI Labs, where I conduct research and production work on **agentic AI** and **large language models (LLMs)**, with an emphasis on the **tool-using agents** and **evaluation**.
+I am a Senior Applied Scientist and Science Manager at AWS AI Labs, where I conduct research and build products in **agentic AI systems** and **large language models (LLMs)**, with a focus on **tool-using agents** and **LLM/agent evaluation**.
 
-My research studies: *how do we build agents that are not only use tools effecitively, but also measurable and reliable?*  
-This leads to work on **tool selection and usage**, **offline evaluation**, and **online evaluation** that can assess agent trajectories beyond final-answer accuracy.
+My research asks: *How can we build agents that use tools effectively, while remaining measurable, reliable, and robust?*  
+This motivates work on **tool selection and tool-use optimization**, and on **offline/online evaluation** that measures **LLM outputs**, **tool calls**, and **agent trajectories**.
 
-## Current Research 
+## Current Research
 
-**LLM/Agent Evaluation**
-- Training evaluation / judge models
-- Offline/build-time evaluation: evalaution metric selection, evaluation data, evaluation pipeline
-- Online evaluation: efficient online performance monitoring
+### LLM / Agent Evaluation
+- Training **evaluator / judge models** for trajectory- and tool-level assessment
+- **Offline (build-time) evaluation**: metric design/selection, evaluation datasets, and evaluation pipelines
+- **Online evaluation**: efficient performance monitoring and continuous quality measurement
 
-**Tool Selection and Optimization** 
-- Improving tool selection accuracy
-- Tool retrieval modeling
-- Tool description optimization
+### Tool Selection and Optimization
+- Improving **tool selection** accuracy
+- **Tool retrieval** modeling
+- **Tool description optimization**
 
 ## Background
 
-Previously, I was a Senior Research Scientist at Bosch Research, working on applied ML/NLP problems including dialogue sentiment analysis, customer service understanding, document understanding, and knowledge extraction. I received my Ph.D. in Computer Science from the University of Utah, where I worked on semi-supervised learning and natural language processing (NLP).
+Previously, I was a Senior Research Scientist at Bosch Research, where I built ML/NLP solutions for dialogue sentiment analysis, customer service understanding, document understanding, and knowledge extraction. I received my Ph.D. in Computer Science from the University of Utah, where I worked on **semi-supervised learning** and **natural language processing**.
 
 
 
