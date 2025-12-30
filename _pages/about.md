@@ -22,9 +22,9 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 0 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Senior Applied Scientist and Science Manager at AWS AI Labs, where I conduct research and build products on **agentic AI systems** and **large language models (LLMs)**, with a focus on **tool-using agents** and **LLM/agent evaluation**.
