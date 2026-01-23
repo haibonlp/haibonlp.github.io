@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-23'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 1
@@ -70,11 +70,11 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 546
+    citations: 548
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:aqlVkmm33-oC:
-    citations: 6
+    citations: 5
     title: The NiuTrans Machine Translation System for NTCIR-9 PatentMT
     year: '2011'
   XOsr4HMAAAAJ:bEWYMUwI8FkC:
