@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-13'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 1
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 22
+    citations: 25
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
-    citations: 0
+    citations: 2
     title: Diffusion Language Model Inference with Monte Carlo Tree Search
     year: '2025'
   XOsr4HMAAAAJ:4DMP91E08xMC:
@@ -70,7 +70,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 550
+    citations: 556
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:aqlVkmm33-oC:
@@ -102,11 +102,11 @@ papers:
     title: Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
     year: '2018'
   XOsr4HMAAAAJ:lSLTfruPkqcC:
-    citations: 11
+    citations: 12
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:ldfaerwXgEUC:
-    citations: 1
+    citations: 3
     title: 'PromptPrism: A Linguistically-Inspired Taxonomy for Prompts'
     year: '2025'
   XOsr4HMAAAAJ:maZDTaKrznsC:
@@ -114,9 +114,13 @@ papers:
     title: Improving Human Needs Categorization of Events with Semantic Classification
     year: '2019'
   XOsr4HMAAAAJ:pqnbT2bcN3wC:
-    citations: 2
+    citations: 3
     title: 'Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation'
     year: '2025'
+  XOsr4HMAAAAJ:rO6llkc54NcC:
+    citations: 0
+    title: Learning to Ideate for Machine Learning Engineering Agents
+    year: '2026'
   XOsr4HMAAAAJ:vV6vV6tmYwMC:
     citations: 5
     title: 'CSPLADE: Learned Sparse Retrieval with Causal Language Models'
