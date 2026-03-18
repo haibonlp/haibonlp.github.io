@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-03-18'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 1
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 34
+    citations: 35
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
@@ -26,7 +26,7 @@ papers:
     title: A Mutil-Stage Clustering Approach to Chinese Person Name Disambiguation
     year: '2010'
   XOsr4HMAAAAJ:BqipwSGYUEgC:
-    citations: 28
+    citations: 29
     title: 'GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition'
     year: '2021'
   XOsr4HMAAAAJ:GnPB-g6toBAC:
@@ -70,7 +70,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 579
+    citations: 582
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:aqlVkmm33-oC:
