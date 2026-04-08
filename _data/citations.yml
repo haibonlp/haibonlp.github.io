@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-08'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
-    citations: 1
+    citations: 2
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 35
+    citations: 38
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
@@ -18,7 +18,7 @@ papers:
     title: A multi-stage clustering framework for Chinese personal name disambiguation
     year: '2010'
   XOsr4HMAAAAJ:70eg2SAEIzsC:
-    citations: 4
+    citations: 5
     title: Enhancing LLM-as-a-judge via multi-agent collaboration
     year: '2025'
   XOsr4HMAAAAJ:9ZlFYXVOiuMC:
@@ -34,7 +34,7 @@ papers:
     title: Weakly Supervised Named Entity Tagging with Learnable Logical Rules
     year: '2021'
   XOsr4HMAAAAJ:HoB7MX3m0LUC:
-    citations: 0
+    citations: 1
     title: 'IPR: Intelligent Prompt Routing with User-Controlled Quality-Cost Trade-offs'
     year: '2025'
   XOsr4HMAAAAJ:M05iB0D1s5AC:
@@ -58,11 +58,11 @@ papers:
     title: Acquiring Knowledge of Affective Events from Blogs Using Label Propagation
     year: '2016'
   XOsr4HMAAAAJ:RGFaLdJalmkC:
-    citations: 17
+    citations: 19
     title: Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering
     year: '2022'
   XOsr4HMAAAAJ:RYcK_YlVTxYC:
-    citations: 1
+    citations: 3
     title: Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models
     year: '2025'
   XOsr4HMAAAAJ:TFP_iSt0sucC:
@@ -70,7 +70,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 582
+    citations: 594
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:aqlVkmm33-oC:
@@ -90,7 +90,7 @@ papers:
     title: Customizable framework for natural language processing explainability
     year: '2025'
   XOsr4HMAAAAJ:hMod-77fHWUC:
-    citations: 160
+    citations: 161
     title: 'X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models'
     year: '2020'
   XOsr4HMAAAAJ:isC4tDSrTZIC:
@@ -102,11 +102,11 @@ papers:
     title: Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
     year: '2018'
   XOsr4HMAAAAJ:lSLTfruPkqcC:
-    citations: 14
+    citations: 16
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:ldfaerwXgEUC:
-    citations: 3
+    citations: 4
     title: 'PromptPrism: A Linguistically-Inspired Taxonomy for Prompts'
     year: '2025'
   XOsr4HMAAAAJ:maZDTaKrznsC:
@@ -122,6 +122,6 @@ papers:
     title: Learning to Ideate for Machine Learning Engineering Agents
     year: '2026'
   XOsr4HMAAAAJ:vV6vV6tmYwMC:
-    citations: 6
+    citations: 7
     title: 'CSPLADE: Learned Sparse Retrieval with Causal Language Models'
     year: '2025'
