@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-01'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 2
@@ -30,7 +30,7 @@ papers:
     title: 'GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition'
     year: '2021'
   XOsr4HMAAAAJ:GnPB-g6toBAC:
-    citations: 46
+    citations: 47
     title: Weakly Supervised Named Entity Tagging with Learnable Logical Rules
     year: '2021'
   XOsr4HMAAAAJ:HoB7MX3m0LUC:
