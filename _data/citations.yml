@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-08'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
-    citations: 2
+    citations: 3
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 48
+    citations: 50
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
@@ -70,7 +70,7 @@ papers:
     title: Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering
     year: '2022'
   XOsr4HMAAAAJ:RYcK_YlVTxYC:
-    citations: 4
+    citations: 5
     title: Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models
     year: '2025'
   XOsr4HMAAAAJ:TFP_iSt0sucC:
@@ -78,7 +78,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 619
+    citations: 629
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:a0OBvERweLwC:
@@ -118,7 +118,7 @@ papers:
     title: Customizable framework for natural language processing explainability
     year: '2025'
   XOsr4HMAAAAJ:hMod-77fHWUC:
-    citations: 161
+    citations: 162
     title: 'X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models'
     year: '2020'
   XOsr4HMAAAAJ:isC4tDSrTZIC:
@@ -130,7 +130,7 @@ papers:
     title: Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
     year: '2018'
   XOsr4HMAAAAJ:lSLTfruPkqcC:
-    citations: 22
+    citations: 24
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:ldfaerwXgEUC:
@@ -142,7 +142,7 @@ papers:
     title: Improving Human Needs Categorization of Events with Semantic Classification
     year: '2019'
   XOsr4HMAAAAJ:pqnbT2bcN3wC:
-    citations: 6
+    citations: 7
     title: 'Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation'
     year: '2025'
   XOsr4HMAAAAJ:rO6llkc54NcC:
