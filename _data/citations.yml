@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-19'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 3
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 50
+    citations: 51
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
@@ -62,7 +62,7 @@ papers:
     title: Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition
     year: '2021'
   XOsr4HMAAAAJ:QIV2ME_5wuYC:
-    citations: 46
+    citations: 47
     title: Acquiring Knowledge of Affective Events from Blogs Using Label Propagation
     year: '2016'
   XOsr4HMAAAAJ:RGFaLdJalmkC:
@@ -78,7 +78,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 629
+    citations: 638
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:a0OBvERweLwC:
@@ -94,7 +94,7 @@ papers:
     title: A reranking method for syntactic parsing with heterogeneous treebanks
     year: '2010'
   XOsr4HMAAAAJ:cFHS6HbyZ2cC:
-    citations: 0
+    citations: 2
     title: An Empirical Study of Automating Agent Evaluation
     year: '2026'
   XOsr4HMAAAAJ:dfsIfKJdRG4C:
@@ -106,7 +106,7 @@ papers:
     title: Extracting Information about Medication Use from Veterinary Discussions
     year: '2015'
   XOsr4HMAAAAJ:f2IySw72cVMC:
-    citations: 8
+    citations: 11
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:fPk4N6BV_jEC:
@@ -130,11 +130,11 @@ papers:
     title: Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
     year: '2018'
   XOsr4HMAAAAJ:lSLTfruPkqcC:
-    citations: 24
+    citations: 27
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:ldfaerwXgEUC:
-    citations: 4
+    citations: 5
     title: 'PromptPrism: A Linguistically-Inspired Taxonomy for Prompts'
     year: '2025'
   XOsr4HMAAAAJ:maZDTaKrznsC:
