@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 3
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 53
+    citations: 54
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
-    citations: 2
+    citations: 3
     title: Diffusion Language Model Inference with Monte Carlo Tree Search
     year: '2025'
   XOsr4HMAAAAJ:4DMP91E08xMC:
@@ -22,7 +22,7 @@ papers:
     title: Graph-based labeling rule augmentation for weakly supervised training of machine-learning-based named entity recognition
     year: '2023'
   XOsr4HMAAAAJ:70eg2SAEIzsC:
-    citations: 5
+    citations: 6
     title: Enhancing LLM-as-a-judge via multi-agent collaboration
     year: '2025'
   XOsr4HMAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: Weakly Supervised Named Entity Tagging with Learnable Logical Rules
     year: '2021'
   XOsr4HMAAAAJ:HoB7MX3m0LUC:
-    citations: 2
+    citations: 3
     title: 'IPR: Intelligent Prompt Routing with User-Controlled Quality-Cost Trade-offs'
     year: '2025'
   XOsr4HMAAAAJ:M05iB0D1s5AC:
@@ -78,7 +78,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 638
+    citations: 641
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:a0OBvERweLwC:
@@ -106,7 +106,7 @@ papers:
     title: Extracting Information about Medication Use from Veterinary Discussions
     year: '2015'
   XOsr4HMAAAAJ:f2IySw72cVMC:
-    citations: 11
+    citations: 13
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:fPk4N6BV_jEC:
@@ -118,7 +118,7 @@ papers:
     title: Customizable framework for natural language processing explainability
     year: '2025'
   XOsr4HMAAAAJ:hMod-77fHWUC:
-    citations: 162
+    citations: 163
     title: 'X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models'
     year: '2020'
   XOsr4HMAAAAJ:isC4tDSrTZIC:
@@ -130,7 +130,7 @@ papers:
     title: Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
     year: '2018'
   XOsr4HMAAAAJ:lSLTfruPkqcC:
-    citations: 28
+    citations: 29
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:ldfaerwXgEUC:
@@ -142,7 +142,7 @@ papers:
     title: Improving Human Needs Categorization of Events with Semantic Classification
     year: '2019'
   XOsr4HMAAAAJ:pqnbT2bcN3wC:
-    citations: 8
+    citations: 7
     title: 'Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation'
     year: '2025'
   XOsr4HMAAAAJ:rO6llkc54NcC:
