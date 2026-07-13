@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-13'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 3
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 54
+    citations: 58
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
@@ -22,7 +22,7 @@ papers:
     title: Graph-based labeling rule augmentation for weakly supervised training of machine-learning-based named entity recognition
     year: '2023'
   XOsr4HMAAAAJ:70eg2SAEIzsC:
-    citations: 6
+    citations: 7
     title: Enhancing LLM-as-a-judge via multi-agent collaboration
     year: '2025'
   XOsr4HMAAAAJ:9ZlFYXVOiuMC:
@@ -54,7 +54,7 @@ papers:
     title: Learning to Classify Events from Human Needs Category Descriptions
     year: '2020'
   XOsr4HMAAAAJ:NaGl4SEjCO4C:
-    citations: 57
+    citations: 58
     title: 'Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer'
     year: '2022'
   XOsr4HMAAAAJ:O3NaXMp0MMsC:
@@ -62,7 +62,7 @@ papers:
     title: Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition
     year: '2021'
   XOsr4HMAAAAJ:QIV2ME_5wuYC:
-    citations: 47
+    citations: 48
     title: Acquiring Knowledge of Affective Events from Blogs Using Label Propagation
     year: '2016'
   XOsr4HMAAAAJ:RGFaLdJalmkC:
@@ -78,7 +78,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 641
+    citations: 654
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:a0OBvERweLwC:
@@ -106,7 +106,7 @@ papers:
     title: Extracting Information about Medication Use from Veterinary Discussions
     year: '2015'
   XOsr4HMAAAAJ:f2IySw72cVMC:
-    citations: 13
+    citations: 14
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:fPk4N6BV_jEC:
@@ -118,7 +118,7 @@ papers:
     title: Customizable framework for natural language processing explainability
     year: '2025'
   XOsr4HMAAAAJ:hMod-77fHWUC:
-    citations: 163
+    citations: 165
     title: 'X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models'
     year: '2020'
   XOsr4HMAAAAJ:isC4tDSrTZIC:
@@ -134,7 +134,7 @@ papers:
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:ldfaerwXgEUC:
-    citations: 5
+    citations: 6
     title: 'PromptPrism: A Linguistically-Inspired Taxonomy for Prompts'
     year: '2025'
   XOsr4HMAAAAJ:maZDTaKrznsC:
