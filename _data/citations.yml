@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-20'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 3
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 58
+    citations: 60
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
@@ -22,7 +22,7 @@ papers:
     title: Graph-based labeling rule augmentation for weakly supervised training of machine-learning-based named entity recognition
     year: '2023'
   XOsr4HMAAAAJ:70eg2SAEIzsC:
-    citations: 7
+    citations: 8
     title: Enhancing LLM-as-a-judge via multi-agent collaboration
     year: '2025'
   XOsr4HMAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: Weakly Supervised Named Entity Tagging with Learnable Logical Rules
     year: '2021'
   XOsr4HMAAAAJ:HoB7MX3m0LUC:
-    citations: 3
+    citations: 4
     title: 'IPR: Intelligent Prompt Routing with User-Controlled Quality-Cost Trade-offs'
     year: '2025'
   XOsr4HMAAAAJ:M05iB0D1s5AC:
@@ -78,7 +78,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 654
+    citations: 658
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:a0OBvERweLwC:
