@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-17'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 3
@@ -54,7 +54,7 @@ papers:
     title: Learning to Classify Events from Human Needs Category Descriptions
     year: '2020'
   XOsr4HMAAAAJ:NaGl4SEjCO4C:
-    citations: 58
+    citations: 59
     title: 'Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer'
     year: '2022'
   XOsr4HMAAAAJ:O3NaXMp0MMsC:
@@ -78,7 +78,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 683
+    citations: 693
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:a0OBvERweLwC:
@@ -118,7 +118,7 @@ papers:
     title: Customizable framework for natural language processing explainability
     year: '2025'
   XOsr4HMAAAAJ:hMod-77fHWUC:
-    citations: 168
+    citations: 169
     title: 'X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models'
     year: '2020'
   XOsr4HMAAAAJ:isC4tDSrTZIC:
@@ -142,7 +142,7 @@ papers:
     title: Improving Human Needs Categorization of Events with Semantic Classification
     year: '2019'
   XOsr4HMAAAAJ:pqnbT2bcN3wC:
-    citations: 9
+    citations: 10
     title: 'Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation'
     year: '2025'
   XOsr4HMAAAAJ:rO6llkc54NcC:
