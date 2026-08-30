@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Applied Scientist & Science Manager · Agentic AI · LLMs · Evaluation
+subtitle: Principal Applied Scientist & Manager · LLM Post-Training · Agentic AI · Evaluation
+description: Research on LLM post-training, agentic AI, vision-language-action models, and diffusion language models.
 
 profile:
   align: right
@@ -27,10 +28,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Applied Scientist and Science Manager at AWS AI Labs, where I conduct research and build products on **agentic AI systems** and **large language models (LLMs)**, with a focus on **tool-using agents** and **LLM/agent evaluation**.
+I am a Principal Applied Scientist and Science Manager at AWS AI Labs. I lead research on LLM post-training and agentic AI, from data and benchmark design through model training and production deployment.
 
-My research asks: _How can we build agents that use tools effectively, while remaining measurable, reliable, and robust?_ This motivates work on **tool selection and tool-use optimization**, and on **offline/online evaluation** methods that measures **LLM outputs**, **tool calls**, and **agent trajectories**.
+### Research interests
 
-**Current research topics** include **LLM / agent evaluation** — training **evaluator / judge models** for trajectory- and tool-level assessment; designing **offline (build-time) evaluation** with metric selection, evaluation datasets, and automated evaluation pipelines; and developing **online evaluation** for efficient performance monitoring and continuous quality measurement. I also work on **tool selection and optimization**, including improving **tool selection** accuracy, **tool retrieval** modeling, and **tool description optimization**.
+- **LLM post-training.** Adapting LLMs to domain-specific tasks through supervised fine-tuning, reinforcement learning with verifiable rewards, reward modeling, and synthetic data design. Applications include training specialized models for agent evaluation, [structured output generation](https://aclanthology.org/2025.emnlp-industry.32/), and [learning to ideate](https://arxiv.org/abs/2601.17596).
 
-**Background**: Previously, I was a Senior Research Scientist at Bosch Research, where I built ML/NLP solutions for dialogue sentiment analysis, customer service understanding, document understanding, and knowledge extraction. I received my Ph.D. in Computer Science from the University of Utah, where I worked on **semi-supervised learning** and **natural language processing**.
+- **Agent evaluation.** Designing benchmarks, datasets, and evaluation rubrics; developing offline and online evaluation methods; and optimizing tool descriptions from agent trajectories. Examples include [An Empirical Study of Automating Agent Evaluation](https://arxiv.org/abs/2605.11378) and [Agent-EvalKit](https://github.com/awslabs/Agent-EvalKit).
+
+- **Model routing.** Developing methods to select the most appropriate LLM for each request while balancing quality and cost ([IPR paper](https://aclanthology.org/2025.emnlp-industry.170/)).
+
+- **Generative and embodied models.** Studying diffusion language models, vision-language-action (VLA) models, and world models for generation, embodied decision-making, and planning. Example: [Diffusion Language Model Inference with Monte Carlo Tree Search](https://arxiv.org/abs/2512.12168).
+
+Previously, I was a Senior Research Scientist at Bosch Research. I received my Ph.D. in Computer Science from the University of Utah, where I studied semi-supervised learning for natural language event understanding.
+
