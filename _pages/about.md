@@ -40,4 +40,4 @@ I am a Principal Applied Scientist and Science Manager at AWS AI Labs. I lead re
 
 - **Generative and embodied models.** Studying diffusion language models, vision-language-action (VLA) models, and world models for generation, embodied decision-making, and planning. Example: [Diffusion Language Model Inference with Monte Carlo Tree Search](https://aclanthology.org/2026.findings-eacl.180/).
 
-Previously, I was a Senior Research Scientist at Bosch Research. I received my Ph.D. in Computer Science from the University of Utah, where I studied semi-supervised learning for natural language event understanding.
+Previously, I was a Senior Research Scientist at Bosch Research. I received my Ph.D. in Computer Science from the University of Utah, where I studied semi-supervised learning for natural language understanding.
