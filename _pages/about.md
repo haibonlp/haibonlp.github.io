@@ -32,13 +32,12 @@ I am a Principal Applied Scientist and Science Manager at AWS AI Labs. I lead re
 
 ### Research interests
 
-- **LLM post-training.** Adapting LLMs to domain-specific tasks through supervised fine-tuning, reinforcement learning with verifiable rewards, reward modeling, and synthetic data design. Applications include training specialized models for agent evaluation, [structured output generation](https://aclanthology.org/2025.emnlp-industry.32/), and [learning to ideate](https://arxiv.org/abs/2601.17596).
+- **LLM post-training.** Adapting LLMs to domain-specific tasks through supervised fine-tuning, reinforcement learning with verifiable rewards, reward modeling, and synthetic data design. Applications include training specialized models for agent evaluation, [structured output generation](https://aclanthology.org/2025.emnlp-industry.32/), and [learning to ideate](https://aclanthology.org/2026.eacl-short.32/).
 
 - **Agent evaluation.** Designing benchmarks, datasets, and evaluation rubrics; developing offline and online evaluation methods; and optimizing tool descriptions from agent trajectories. Examples include [An Empirical Study of Automating Agent Evaluation](https://arxiv.org/abs/2605.11378) and [Agent-EvalKit](https://github.com/awslabs/Agent-EvalKit).
 
 - **Model routing.** Developing methods to select the most appropriate LLM for each request while balancing quality and cost ([IPR paper](https://aclanthology.org/2025.emnlp-industry.170/)).
 
-- **Generative and embodied models.** Studying diffusion language models, vision-language-action (VLA) models, and world models for generation, embodied decision-making, and planning. Example: [Diffusion Language Model Inference with Monte Carlo Tree Search](https://arxiv.org/abs/2512.12168).
+- **Generative and embodied models.** Studying diffusion language models, vision-language-action (VLA) models, and world models for generation, embodied decision-making, and planning. Example: [Diffusion Language Model Inference with Monte Carlo Tree Search](https://aclanthology.org/2026.findings-eacl.180/).
 
 Previously, I was a Senior Research Scientist at Bosch Research. I received my Ph.D. in Computer Science from the University of Utah, where I studied semi-supervised learning for natural language event understanding.
-
