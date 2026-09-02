@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-09-02'
 papers:
   XOsr4HMAAAAJ:2P1L_qKh6hAC:
     citations: 3
     title: Explainable defense coverage classification in nfl games using deep neural networks
     year: '2023'
   XOsr4HMAAAAJ:35N4QoGY0k4C:
-    citations: 67
+    citations: 72
     title: A Systematic Survey of Automatic Prompt Optimization Techniques
     year: '2025'
   XOsr4HMAAAAJ:3s1wT3WcHBgC:
@@ -30,7 +30,7 @@ papers:
     title: A Mutil-Stage Clustering Approach to Chinese Person Name Disambiguation
     year: '2010'
   XOsr4HMAAAAJ:BqipwSGYUEgC:
-    citations: 30
+    citations: 31
     title: 'GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition'
     year: '2021'
   XOsr4HMAAAAJ:D03iK_w7-QYC:
@@ -38,7 +38,7 @@ papers:
     title: Methods and systems for automated creation of annotated data and training of a machine learning model therefrom
     year: '2024'
   XOsr4HMAAAAJ:GnPB-g6toBAC:
-    citations: 46
+    citations: 48
     title: Weakly Supervised Named Entity Tagging with Learnable Logical Rules
     year: '2021'
   XOsr4HMAAAAJ:HoB7MX3m0LUC:
@@ -54,7 +54,7 @@ papers:
     title: Learning to Classify Events from Human Needs Category Descriptions
     year: '2020'
   XOsr4HMAAAAJ:NaGl4SEjCO4C:
-    citations: 59
+    citations: 60
     title: 'Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer'
     year: '2022'
   XOsr4HMAAAAJ:O3NaXMp0MMsC:
@@ -66,7 +66,7 @@ papers:
     title: Acquiring Knowledge of Affective Events from Blogs Using Label Propagation
     year: '2016'
   XOsr4HMAAAAJ:RGFaLdJalmkC:
-    citations: 20
+    citations: 21
     title: Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering
     year: '2022'
   XOsr4HMAAAAJ:RYcK_YlVTxYC:
@@ -78,7 +78,7 @@ papers:
     title: Why is an Event Affective? Classifying Affective Events based on Human Needs
     year: '2018'
   XOsr4HMAAAAJ:YFjsv_pBGBYC:
-    citations: 695
+    citations: 703
     title: How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering
     year: '2021'
   XOsr4HMAAAAJ:a0OBvERweLwC:
@@ -106,7 +106,7 @@ papers:
     title: Extracting Information about Medication Use from Veterinary Discussions
     year: '2015'
   XOsr4HMAAAAJ:f2IySw72cVMC:
-    citations: 15
+    citations: 16
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:fPk4N6BV_jEC:
@@ -118,7 +118,7 @@ papers:
     title: Customizable framework for natural language processing explainability
     year: '2025'
   XOsr4HMAAAAJ:hMod-77fHWUC:
-    citations: 170
+    citations: 174
     title: 'X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models'
     year: '2020'
   XOsr4HMAAAAJ:isC4tDSrTZIC:
@@ -130,7 +130,7 @@ papers:
     title: Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data
     year: '2018'
   XOsr4HMAAAAJ:lSLTfruPkqcC:
-    citations: 31
+    citations: 32
     title: 'SLOT: Structuring the Output of Large Language Models'
     year: '2025'
   XOsr4HMAAAAJ:ldfaerwXgEUC:
@@ -142,11 +142,11 @@ papers:
     title: Improving Human Needs Categorization of Events with Semantic Classification
     year: '2019'
   XOsr4HMAAAAJ:pqnbT2bcN3wC:
-    citations: 10
+    citations: 13
     title: 'Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation'
     year: '2025'
   XOsr4HMAAAAJ:rO6llkc54NcC:
-    citations: 1
+    citations: 2
     title: Learning to Ideate for Machine Learning Engineering Agents
     year: '2026'
   XOsr4HMAAAAJ:u_35RYKgDlwC:
@@ -154,11 +154,11 @@ papers:
     title: Automatically labeling data using conceptual descriptions
     year: '2023'
   XOsr4HMAAAAJ:vV6vV6tmYwMC:
-    citations: 9
+    citations: 10
     title: 'CSPLADE: Learned Sparse Retrieval with Causal Language Models'
     year: '2025'
   XOsr4HMAAAAJ:yD5IFk8b50cC:
-    citations: 2
+    citations: 3
     title: Weakly supervised and explainable training of a machine-learning-based named-entity recognition (NER) mechanism
     year: '2023'
   XOsr4HMAAAAJ:zA6iFVUQeVQC:
